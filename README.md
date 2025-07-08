@@ -1,6 +1,3 @@
-## Hi there 👋
-### GitHub Stats
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sina30&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </a>
