@@ -1,5 +1,12 @@
 ## Hi there 👋
+### GitHub Stats
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sina30&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sina30&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</a>
 <!--
 **Sina30/sina30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
