@@ -9,8 +9,7 @@
 </p>
 #### ⏳ Wakatime Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sina30&theme=tokyonight" alt="Wakatime Stats" />
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sina30)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sina&theme=tokyonight" alt="Wakatime Stats" />
 </p>
 
   ![github-contribution-grid-snake](https://user-images.githubusercontent.com/39227403/174198514-9fbf7789-f964-4f50-b147-cbd570889396.svg)
