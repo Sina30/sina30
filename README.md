@@ -4,6 +4,9 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sina30&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sina30&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
   ![github-contribution-grid-snake](https://user-images.githubusercontent.com/39227403/174198514-9fbf7789-f964-4f50-b147-cbd570889396.svg)
 <!--
