@@ -7,6 +7,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sina30&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+#### ⏳ Wakatime Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sina30&theme=tokyonight" alt="Wakatime Stats" />
+</p>
 
   ![github-contribution-grid-snake](https://user-images.githubusercontent.com/39227403/174198514-9fbf7789-f964-4f50-b147-cbd570889396.svg)
 <!--
