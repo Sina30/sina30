@@ -1,3 +1,6 @@
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=sina30&color=blueviolet&style=for-the-badge">
+</p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sina30&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </a>
